@@ -1,0 +1,390 @@
+========================================================================
+BASE STATION LOG
+
+Received from Node 0
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 1
+
+Received from Node 1
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 2
+
+Received from Node 2
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 3
+
+Received from Node 5
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 6
+
+Received from Node 6
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 7
+
+Received from Node 7
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 8
+
+Received from Node 9
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 10
+
+Received from Node 10
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 11
+
+Received from Node 11
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 12
+
+Received from Node 13
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 14
+
+Received from Node 14
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 15
+
+Received from Node 15
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 16
+
+Received from Node 16
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 17
+
+Received from Node 18
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 19
+
+Received from Node 19
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 20
+
+Received from Node 20
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 21
+
+Received from Node 22
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 23
+
+Received from Node 23
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 24
+
+Received from Node 24
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 25
+
+Received from Node 27
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 28
+
+Received from Node 28
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 29
+
+Received from Node 29
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 30
+
+Received from Node 32
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 33
+
+Received from Node 33
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 34
+
+Received from Node 34
+Simulation: Date Tue Oct 18 02:14:01 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 35
+
+Total Number of Alerts: 25
+
+========================================================================
+BASE STATION LOG
+
+Received from Node 0
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 1
+
+Received from Node 1
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 2
+
+Received from Node 2
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 3
+
+Received from Node 5
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 6
+
+Received from Node 6
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 7
+
+Received from Node 7
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 8
+
+Received from Node 9
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 10
+
+Received from Node 10
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 11
+
+Received from Node 11
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 12
+
+Received from Node 13
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 14
+
+Received from Node 14
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 15
+
+Received from Node 15
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 16
+
+Received from Node 16
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 17
+
+Received from Node 18
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 19
+
+Received from Node 19
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 20
+
+Received from Node 20
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 21
+
+Received from Node 22
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 23
+
+Received from Node 23
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 24
+
+Received from Node 24
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 25
+
+Received from Node 27
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 28
+
+Received from Node 28
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 29
+
+Received from Node 29
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 30
+
+Received from Node 32
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 33
+
+Received from Node 33
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 34
+
+Received from Node 34
+Simulation: Date Tue Oct 18 02:15:13 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 35
+
+Total Number of Alerts: 25
+
+========================================================================
+BASE STATION LOG
+
+Received from Node 0
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 1
+
+Received from Node 1
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 2
+
+Received from Node 2
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 3
+
+Received from Node 5
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 6
+
+Received from Node 6
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 7
+
+Received from Node 7
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 8
+
+Received from Node 9
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 10
+
+Received from Node 10
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 11
+
+Received from Node 11
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 12
+
+Received from Node 13
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 14
+
+Received from Node 14
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 15
+
+Received from Node 15
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 16
+
+Received from Node 16
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 17
+
+Received from Node 18
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 19
+
+Received from Node 19
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 20
+
+Received from Node 20
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 21
+
+Received from Node 22
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 3, Latitude: -16, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 23
+
+Received from Node 23
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 24
+
+Received from Node 24
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 25
+
+Received from Node 27
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 28
+
+Received from Node 28
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 5, Latitude: -15, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 4, Total Messages: 29
+
+Received from Node 29
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 7, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 30
+
+Received from Node 32
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 4, Latitude: -15, Longitude: 165, Depth(km): 4
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 33
+
+Received from Node 33
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 6, Latitude: -14, Longitude: 166, Depth(km): 5
+Type of Alert: Conclusive Alert, Number of Neighbours: 3, Total Messages: 34
+
+Received from Node 34
+Simulation: Date Tue Oct 18 02:16:25 2022
+Magnitude: 8, Latitude: -14, Longitude: 167, Depth(km): 6
+Type of Alert: Conclusive Alert, Number of Neighbours: 2, Total Messages: 35
+
+Total Number of Alerts: 25
+
