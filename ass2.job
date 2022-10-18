@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=ass2_job	 	### name your job 
+#SBATCH --time=00:10:00		 	### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=16G			### memory setting is max @ 4 GB per process
+#SBATCH --ntasks=28			### mpi # of processes
+#SBATCH --cpus-per-task=1		### multi-threaded processes
+#SBATCH --ntasks-per-node=14   		### 14 processes per node, 2 ndoes in total
+#SBATCH --output=ass2.%j.out
+#SBATCH --partition=defq
+
+module load openmpi-4.1.4-gcc-11.2.0-6z47sq3
+export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+
+if [ ! -f main.c ]
+then
+ make all
+else
+ if [ main.c -nt main ]
+ then
+  make all
+ fi
+fi
+
+srun main_out
